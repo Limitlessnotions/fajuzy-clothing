@@ -22,7 +22,7 @@ const services = [
     description:
       "Elegant bridal creations designed to make your special day unforgettable.",
     button: "Explore Bridal",
-    video: "/brand-2.mp4",
+    video: "/brand-2.MP4",
     reverse: false,
   },
   {
