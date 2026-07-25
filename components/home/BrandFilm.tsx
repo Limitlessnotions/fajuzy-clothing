@@ -14,7 +14,7 @@ export default function BrandFilm() {
             className="h-[700px] w-full object-cover"
           >
             <source
-              src="/brand-2.mp4"
+              src="/brand.mp4"
               type="video/mp4"
             />
           </video>
